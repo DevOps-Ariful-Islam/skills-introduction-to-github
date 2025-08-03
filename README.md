@@ -68,7 +68,7 @@ Here are some tools and platforms I work with or am currently learning:
 <container>
  <tr>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/DevOps-Ariful-Islam/skills-introduction-to-github/main/images/AZ-Tec-logo.png" width="60" alt="Arwa Zarish Logo"/>
+      <img src="https://raw.githubusercontent.com/DevOps-Ariful-Islam/skills-introduction-to-github/main/images/AZ-Tec-logo.png" width="120" alt="Arwa Zarish Logo"/>
     </p>
     <td>
       <h2 align="center">Arwa Zarish Technologies</h2>
