@@ -1,75 +1,119 @@
-<header>
+<h1 align="center">👋 Hello, I'm Mohammad Ariful ISLAM</h1>
+<h3 align="center">🌍 Public Health Professional | 💡Digital Health Enthusiast  | 💼Founder, Arwa Zarish Technologies</h3>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Create a branch
-
-_Welcome to "Introduction to GitHub"! :wave:_
-
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
-
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
-
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
-
-   ![code-tab](/images/code-tab.png)
-
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+<p align="center">
+  <a href="mailto:dev43ariful@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/arifulislambgd/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Arifulislam_BGD" target="_blank"><img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter"/></a>
+  <a href="https://facebook.com/Arifulislam43BGD" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 👨‍💻 About Me
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+I’m a **Public Health Professional** working in the **Humanitarian and Development Sector**, driven by the mission to improve health outcomes in vulnerable populations. With extensive field experience, I understand the real-world challenges in global health—and I believe **digital transformation** is key to building resilient, inclusive, and effective health systems.
 
-</footer>
+I'm here on GitHub to:
+
+- 🔍 **Explore** digital tools and technologies relevant to public health  
+- 🧠 **Learn** from open-source communities working on global health solutions  
+- 🤝 **Collaborate** with developers and health technologists  
+- 💻 **Contribute** to open-source projects that drive social good
+
+
+> 🎯 *“Technology should think like a human, and serve like one too.”*
+
+---
+
+## 🌐 Interests
+
+- 🧭 Digital Health & eHealth Solutions  
+- 📊 Data for Decision-Making (DHIS2, KoboToolbox, Power BI)  
+- 📱 mHealth in Humanitarian Settings  
+- 🧬 Health Information Systems (HIS)  
+- 🛠️ Open Source for Health Equity  
+- 🔒 Ethics and Data Privacy in Health Tech  
+
+---
+
+## 🛠️ Tools & Technologies
+
+Here are some tools and platforms I work with or am currently learning:
+<p align="left">
+  <img src="https://img.shields.io/badge/-DHIS2-00AEEF?style=flat-square&logo=data:image/png;base64,[base64data]" height="28" />
+  <img src="https://img.shields.io/badge/KoboToolbox-005DAA?style=flat-square&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/OpenMRS-548C27?style=flat-square&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="28" 
+/>
+
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤝 OpenHIE & FHIR Interoperability  
+- 📦 DevOps for health tech (CI/CD pipelines)  
+- 🧬 Ethics in AI + data for development  
+
+---
+
+<container>
+ <tr>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/DevOps-Ariful-Islam/hello-world/main/assets/logo-arwa-zarish.png" width="60" alt="Arwa Zarish Logo"/>
+    </p>
+    <td>
+      <h2 align="center">Arwa Zarish Technologies</h2>
+      <h4 align="center">“The Code, and The Brain.”</h4>
+    </td>
+  </tr>
+</container>
+
+**Arwa Zarish Technologies** is a mission-driven software firm that designs open-source systems for non-profits, health programs, and humanitarian organizations. We combine **open technology**, **domain expertise**, and **human-centered design** to build scalable, sustainable tools for the real world.
+
+
+---
+
+## 🚀 My Core Project
+
+###  ZarishOpsSphere
+
+An integrated, open-source platform for NGO **Project Management**, **Program Monitoring**, and **Data-driven Humanitarian Coordination**.
+
+
+> 📁 GitHub Repo: [ZarishOpsSphere - Will be linked soon](https://github.com/DevOps-Ariful-Islam/ZarishOpsSphere)
+
+---
+
+## 🤝 Let's Collaborate
+
+If you're building **digital health** tools, working in **emergency response**, or contributing to **open-source for development**, I’d love to connect.
+
+> 💬 “Technology is most powerful when it bridges the gap between knowledge and access.”
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [dev43ariful@gmail.com](mailto:dev43ariful@gmail.com) / [dev_ariful@tutamail.com](mailto:dev_ariful@tutamail.com)  
+- 📱 Cell / WhatsApp: [+880 1723 889843](tel:+8801723889843)  
+- 🔗 LinkedIn: [linkedin.com/in/arifulislambgd](https://www.linkedin.com/in/arifulislambgd/)  
+- 🧑‍💻 GitHub: [github.com/DevOps-Ariful-Islam](https://github.com/DevOps-Ariful-Islam)  
+- 🐦 Twitter/X: [@Arifulislam_BGD](https://x.com/Arifulislam_BGD)  
+- 🌐 Facebook: [facebook.com/Arifulislam43BGD](https://www.facebook.com/Arifulislam43BGD/)
+
+---
+
+
+
+<p align="center"><i>“The Code, and The Brain.” — powered by Arwa Zarish Technologies</i></p>
+
+
+
