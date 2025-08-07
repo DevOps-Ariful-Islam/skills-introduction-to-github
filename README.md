@@ -111,6 +111,16 @@ If you're building **digital health** tools, working in **emergency response**, 
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="170" />
+</p>
+
+---
+
+
 
 
 <p align="center"><i>“The Code, and The Brain.” — powered by Arwa Zarish Technologies</i></p>
